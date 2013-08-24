@@ -9,6 +9,10 @@ http://lucasbonomi.com
 replace all images of the website on the fly!!
 ----------------------------------------------
 
+###DEMO
+[Find a demo on codepen.io](http://codepen.io/LukyVj/full/tgbGn).
+
+
 ### How to 
 
 You just have to import the `images-replacer.js` to your pages, to be able to use it. 
