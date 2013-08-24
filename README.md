@@ -11,8 +11,8 @@ replace all images of the website on the fly!!
 
 ### How to 
 
-You just have to import the <code>images-replacer.js</code> to your pages, to be able to use it. 
-<code><script src="/path/to/your/project/images-replacer.js"></script></code>
+You just have to import the `images-replacer.js` to your pages, to be able to use it. 
+`<script src="/path/to/your/project/images-replacer.js"></script>`
 That's it ! 
 
 ### What happen ?
