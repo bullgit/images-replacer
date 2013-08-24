@@ -1,9 +1,9 @@
-
 Images Replacer 1.0 | @Bullgit
+====================
 http://http://bullgit.github.io/
 author : @LukyVj
 http://lucasbonomi.com 
-====================
+
 
 
 replace all images of the website on the fly!!
